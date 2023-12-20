@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Ayush kumar's Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "",
   },
 };
 
@@ -25,7 +25,7 @@ const greeting = {
     "MERN stack developer, Deep learning , AI, Machine Learning..Bringing ideas to life, one line of code at a time.",
   resumeLink:
     "https://drive.google.com/file/d/11shTcZXh79odgCwcg1QLyAuDlE9qKfkL/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+  portfolio_repository: "https://github.com/code1ayush/My-Portfoilio",
   githubProfile: "https://github.com/code1ayush",
 };
 
