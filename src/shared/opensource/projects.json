@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "MyPortfolio",
+      "createdAt": "Dec 2023",
+      "url": "https://github.com/code1ayush",
+      "description": "🔥My portfolio website showcases my expertise as a dynamic web developer and hackathon organizer. Explore my projects and learn about my proficiency in HTML, CSS, and JavaScript. ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "react",
+          "iconifyClass": "simple-icons:react"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Campus-Cart",
+      "createdAt": "Jan 2023",
+      "url": "https://github.com/code1ayush/Campus-CART",
+      "description": "📦Built a Web Platform on MERN stack (MongoDB, Express, React, and Node.js) where students can buy orsell their old books and utilities to other students. Implemented a user authentication system with encrypted passwords, allowing users to securely sign up, log in, and manage their account information.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "react",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "nodeJS",
+          "iconifyClass": "fa-code"
+        },
+        {
+          "name": "mongoDB",
+          "iconifyClass": "fa-database"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "CricStats",
+      "createdAt": "Dec 2022",
+      "url": "https://github.com/code1ayush/cricketstat",
+      "description": "🌀 One stop platform for all your cricket curiocities",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "react",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "APIs",
+          "iconifyClass": "fa-database"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Student Activity center",
+      "createdAt": "Feb 2023",
+      "url": "https://github.com/code1ayush/Project-Rose",
+      "description": "⚙️ One stop solution for all the college students for upcoming events,and important information",
+      "isFork": false,
+      "languages": [
+         {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "react",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    }
+  ]
+}
