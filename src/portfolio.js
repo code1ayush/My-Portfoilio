@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "MERN stack developer, Deep learning , AI, Machine Learning..Bringing ideas to life, one line of code at a time.",
   resumeLink:
-    "https://drive.google.com/file/d/11shTcZXh79odgCwcg1QLyAuDlE9qKfkL/view?usp=sharing",
+    "https://drive.google.com/file/d/18S0C7puDgMy8i1tQeY_TulJl4E0ocYeq/view?usp=sharing",
   portfolio_repository: "https://github.com/code1ayush/My-Portfoilio",
   githubProfile: "https://github.com/code1ayush",
 };
@@ -386,9 +386,9 @@ const contactPageData = {
     subtitle: "Adil Nagar, Tedhipulia, Lucknow, U.P. 226022",
     locality: "Kanodar",
     country: "IN",
-    region: "Gujarat",
-    postalCode: "385520",
-    streetAddress: "Ambavadi vas",
+    region: "Lucknow",
+    postalCode: "226022",
+    streetAddress: "tedhipulia",
     avatar_image_path: "address_image.svg",
     location_map_link:
       "https://www.google.com/maps/d/viewer?mid=1PRNsTVTx_mxFS944bTNCFZldOoI&hl=en&ll=26.852253999999988%2C80.916367&z=17",
